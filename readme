@@ -1,0 +1,2 @@
+First start rtc.sh and after reboot start rtc2.sh to install RTC on RPi. 
+Run scripts as root
